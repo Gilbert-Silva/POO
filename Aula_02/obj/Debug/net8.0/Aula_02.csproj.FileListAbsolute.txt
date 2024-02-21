@@ -1,0 +1,15 @@
+/workspaces/POO/Aula_02/bin/Debug/net8.0/Aula_02
+/workspaces/POO/Aula_02/bin/Debug/net8.0/Aula_02.deps.json
+/workspaces/POO/Aula_02/bin/Debug/net8.0/Aula_02.runtimeconfig.json
+/workspaces/POO/Aula_02/bin/Debug/net8.0/Aula_02.dll
+/workspaces/POO/Aula_02/bin/Debug/net8.0/Aula_02.pdb
+/workspaces/POO/Aula_02/obj/Debug/net8.0/Aula_02.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/POO/Aula_02/obj/Debug/net8.0/Aula_02.AssemblyInfoInputs.cache
+/workspaces/POO/Aula_02/obj/Debug/net8.0/Aula_02.AssemblyInfo.cs
+/workspaces/POO/Aula_02/obj/Debug/net8.0/Aula_02.csproj.CoreCompileInputs.cache
+/workspaces/POO/Aula_02/obj/Debug/net8.0/Aula_02.sourcelink.json
+/workspaces/POO/Aula_02/obj/Debug/net8.0/Aula_02.dll
+/workspaces/POO/Aula_02/obj/Debug/net8.0/refint/Aula_02.dll
+/workspaces/POO/Aula_02/obj/Debug/net8.0/Aula_02.pdb
+/workspaces/POO/Aula_02/obj/Debug/net8.0/Aula_02.genruntimeconfig.cache
+/workspaces/POO/Aula_02/obj/Debug/net8.0/ref/Aula_02.dll
